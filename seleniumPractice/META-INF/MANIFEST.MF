@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: seleniumPractice
+Bundle-SymbolicName: seleniumPractice
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: seleniumPractice.jar,
+ chromedriver.exe,
+ SAURAV SUMAN/Desktop/Jar File/selenium-server-standalone-3.14.0.jar
+Export-Package: seleniumPractice
